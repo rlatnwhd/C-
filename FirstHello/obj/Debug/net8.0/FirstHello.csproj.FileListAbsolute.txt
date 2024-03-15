@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\bin\Debug\net8.0\FirstHello.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\bin\Debug\net8.0\FirstHello.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\bin\Debug\net8.0\FirstHello.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\bin\Debug\net8.0\FirstHello.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\bin\Debug\net8.0\FirstHello.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\refint\FirstHello.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\FirstHello.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FirstHello\obj\Debug\net8.0\ref\FirstHello.dll
