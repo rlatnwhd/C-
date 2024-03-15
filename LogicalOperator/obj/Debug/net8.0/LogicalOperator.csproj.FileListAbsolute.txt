@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\bin\Debug\net8.0\LogicalOperator.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\bin\Debug\net8.0\LogicalOperator.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\bin\Debug\net8.0\LogicalOperator.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\bin\Debug\net8.0\LogicalOperator.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\bin\Debug\net8.0\LogicalOperator.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\refint\LogicalOperator.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\LogicalOperator.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LogicalOperator\obj\Debug\net8.0\ref\LogicalOperator.dll
