@@ -1,50 +1,63 @@
 ﻿/*
- * 작성일 : 2024년 3월 14일
+ * 작성일 : 2024년 3월 15일
  * 작성자 : 컴퓨터공학부 202395007 김수종
- * 설명 : C#의 기본적인 출력
-*/
+ * 설명 : 자료형
+ */
 internal class Program
 {
     private static void Main(string[] args)
     {
-        // Write은 줄바꿈을 포함하지 않은 출력
-        Console.Write("Hello, World!\n");
+        // 시간을 나타내는 DateTime
+        Console.WriteLine("현재 Hour : " + DateTime.Now.Hour);
 
-        // WriteLIne은 줄바꿈을 포함한 출력 (\n 도 가능)
-        Console.WriteLine("Hello, World!");
+        // 연산자 비교 -> bool 자료형 출력
+        Console.WriteLine(DateTime.Now.Hour < 3 || 8 < DateTime.Now.Hour); // or -> 논리합
+        Console.WriteLine(3 < DateTime.Now.Hour && DateTime.Now.Hour < 8); // and -> 논리곱
 
-        // format 없이 연산 바로 출력 가능(연산자 우선 순위로 계산)
-        Console.WriteLine(5 + 3 + 3);
+        // 오버플로우, 언더플로우 발생 시
+        int a1 = -2147483648;
+        int b1 = -1;
+        Console.WriteLine(a1 + b1); // 언더플로우는 양수의 가장 큰 수로 이동
 
-        // 정수 계산은 값이 정수로, 실수 계산은 값이 실수로 나온다.
-        Console.WriteLine(5 + 4);
-        Console.WriteLine(5.0 + 3.0);
+        int a2 = 2147483647;
+        int b2 = 1;
+        Console.WriteLine(a2 + b2); // 오버플로우는 음수의 가장 작은 수로 이동
 
-        // 나머지 연산은 실수로 계산이 불가능하다.
-        // Console.WriteLine(5.0 % 3.0);
+        Console.WriteLine("int의 최대값 : " + int.MaxValue); // int의 정수 범위 -2^31 ~ 2^31-1
+        Console.WriteLine("int의 최소값 : " + int.MinValue);
 
-        // 나머지 계산은 값이 왼쪽 연산자의 부호에 따라 값이 결정된다.
-        Console.WriteLine(-5 % 3); // 나머지 -2
-        Console.WriteLine(5 % -3); // 나머지 2
+        Console.WriteLine("long의 최대값 : " + long.MaxValue);
+        Console.WriteLine("long의 최소값 : " + long.MinValue);
 
-        // 작은따옴표(')는 하나의 문자를 적을 때 사용
-        Console.WriteLine('A');
+        // 더 넓은 정수의 범위인 uint, ulong이 존재한다.
 
-        // 큰따옴표(")는 문자열을 적을 때 사용
-        Console.WriteLine("문자열 출력");
+        // 자료형의 변환
+        int x = 10, y = 6;
+        Console.WriteLine(x + " + " + y + " = " + (x + y));
+        Console.WriteLine(x + " - " + y + " = " + (x - y));
+        Console.WriteLine(x + " * " + y + " = " + (x * y));
+        Console.WriteLine(x + " / " + y + " = " + ((double)x / y));
+        Console.WriteLine(x + " % " + y + " = " + (x % y));
+        // 사용 용도가 다른 연산자를 사용했을 때 헷갈리면 괄호로 묶을 수 있음
 
-        // \t = 수평 탭, \n = 줄바꿈, \\ = 역슬래시 출력, \" = 큰따옴표 출력(작은따옴표 동일)
-        Console.WriteLine("\t탭");
-        Console.WriteLine("\", \'");
+        // ASCII 코드
+        char charactor = 'A';
+        int asciiCode = 65;
+        Console.WriteLine(charactor); // A
+        Console.WriteLine((char)asciiCode); // A
 
-        // C#에서만 가능한 문자열 인덱스
-        Console.WriteLine("안녕하세요"[0]); // 안
-        Console.WriteLine("안녕하세요"[1]); // 녕
-        Console.WriteLine("안녕하세요"[2]); // 하
-        // Console.WriteLine("안녕하세요"[1000]); 런타임 오류(인덱스 범위 오버)
+        // char의 사이즈는 c#과 Java에서는 2바이트임
+        char Hangul = '뛟';
+        Console.WriteLine(Hangul); // C는 출력 안됨(char = 1byte)
 
-        // 문자열 연결은 + 연산자를 사용하지만 문자는 연결이 불가능
-        Console.WriteLine("가나다라" + "마바사");
-        // Console.WriteLine('가' + '나'); 문자열 연결 불가능
+        // 문자형으로 연산 가능 (ASCII 코드로 계산)
+        char a = 'a';
+        char b = 'c';
+        Console.WriteLine(a + " + " + b + " = " + (a + b));
+        Console.WriteLine(a + " - " + b + " = " + (a - b));
+        Console.WriteLine(a + " * " + b + " = " + (a * b));
+        Console.WriteLine(a + " / " + b + " = " + ((double)a / b));
+        Console.WriteLine(a + " % " + b + " = " + (a % b));
+
     }
 }
