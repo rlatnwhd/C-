@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\bin\Debug\net8.0\IfelseTest3.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\bin\Debug\net8.0\IfelseTest3.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\bin\Debug\net8.0\IfelseTest3.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\bin\Debug\net8.0\IfelseTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\bin\Debug\net8.0\IfelseTest3.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\refint\IfelseTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\IfelseTest3.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IfelseTest3\obj\Debug\net8.0\ref\IfelseTest3.dll
