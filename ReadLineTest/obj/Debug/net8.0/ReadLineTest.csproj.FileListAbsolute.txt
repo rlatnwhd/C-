@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\bin\Debug\net8.0\ReadLineTest.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\bin\Debug\net8.0\ReadLineTest.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\bin\Debug\net8.0\ReadLineTest.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\bin\Debug\net8.0\ReadLineTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\bin\Debug\net8.0\ReadLineTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\refint\ReadLineTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ReadLineTest.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ReadLineTest\obj\Debug\net8.0\ref\ReadLineTest.dll
