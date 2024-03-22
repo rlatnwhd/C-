@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\bin\Debug\net8.0\ConvertTest.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\bin\Debug\net8.0\ConvertTest.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\bin\Debug\net8.0\ConvertTest.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\bin\Debug\net8.0\ConvertTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\bin\Debug\net8.0\ConvertTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\refint\ConvertTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ConvertTest.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConvertTest\obj\Debug\net8.0\ref\ConvertTest.dll
