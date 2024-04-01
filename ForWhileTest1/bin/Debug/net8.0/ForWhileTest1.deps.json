@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ForWhileTest1/1.0.0": {
+        "runtime": {
+          "ForWhileTest1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForWhileTest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
