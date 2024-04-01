@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\bin\Debug\net8.0\ForWhileTest2.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\bin\Debug\net8.0\ForWhileTest2.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\bin\Debug\net8.0\ForWhileTest2.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\bin\Debug\net8.0\ForWhileTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\bin\Debug\net8.0\ForWhileTest2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\refint\ForWhileTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ForWhileTest2.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ForWhileTest2\obj\Debug\net8.0\ref\ForWhileTest2.dll
