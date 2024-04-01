@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\bin\Debug\net8.0\MovingAt.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\bin\Debug\net8.0\MovingAt.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\bin\Debug\net8.0\MovingAt.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\bin\Debug\net8.0\MovingAt.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\bin\Debug\net8.0\MovingAt.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\refint\MovingAt.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\MovingAt.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\MovingAt\obj\Debug\net8.0\ref\MovingAt.dll
