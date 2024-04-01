@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\bin\Debug\net8.0\SwitchCase2.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\bin\Debug\net8.0\SwitchCase2.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\bin\Debug\net8.0\SwitchCase2.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\bin\Debug\net8.0\SwitchCase2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\bin\Debug\net8.0\SwitchCase2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\refint\SwitchCase2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\SwitchCase2.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\SwitchCase2\obj\Debug\net8.0\ref\SwitchCase2.dll
