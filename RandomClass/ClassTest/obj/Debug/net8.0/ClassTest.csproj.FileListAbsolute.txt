@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\bin\Debug\net8.0\ClassTest.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\bin\Debug\net8.0\ClassTest.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\bin\Debug\net8.0\ClassTest.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\bin\Debug\net8.0\ClassTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\bin\Debug\net8.0\ClassTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\refint\ClassTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ClassTest.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ClassTest\obj\Debug\net8.0\ref\ClassTest.dll
