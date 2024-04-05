@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\bin\Debug\net8.0\Chaper04Test.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\bin\Debug\net8.0\Chaper04Test.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\bin\Debug\net8.0\Chaper04Test.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\bin\Debug\net8.0\Chaper04Test.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\bin\Debug\net8.0\Chaper04Test.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\refint\Chaper04Test.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\Chaper04Test.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Chaper04Test\obj\Debug\net8.0\ref\Chaper04Test.dll

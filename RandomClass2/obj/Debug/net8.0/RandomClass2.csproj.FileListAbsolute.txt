@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\bin\Debug\net8.0\RandomClass2.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\bin\Debug\net8.0\RandomClass2.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\bin\Debug\net8.0\RandomClass2.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\bin\Debug\net8.0\RandomClass2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\bin\Debug\net8.0\RandomClass2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\refint\RandomClass2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\RandomClass2.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\RandomClass2\obj\Debug\net8.0\ref\RandomClass2.dll
