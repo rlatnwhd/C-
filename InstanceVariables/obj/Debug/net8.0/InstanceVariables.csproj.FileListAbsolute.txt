@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\bin\Debug\net8.0\InstanceVariables.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\bin\Debug\net8.0\InstanceVariables.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\bin\Debug\net8.0\InstanceVariables.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\bin\Debug\net8.0\InstanceVariables.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\bin\Debug\net8.0\InstanceVariables.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\refint\InstanceVariables.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\InstanceVariables.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\InstanceVariables\obj\Debug\net8.0\ref\InstanceVariables.dll
