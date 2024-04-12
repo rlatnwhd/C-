@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\refint\ModelClassWithList.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ModelClassWithList\obj\Debug\net8.0\ref\ModelClassWithList.dll

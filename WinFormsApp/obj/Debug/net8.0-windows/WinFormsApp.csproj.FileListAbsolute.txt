@@ -1,0 +1,16 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.Form1.resources
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll

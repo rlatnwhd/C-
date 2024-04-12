@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\refint\ElementRemoveWithReverse.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ElementRemoveWithReverse\obj\Debug\net8.0\ref\ElementRemoveWithReverse.dll
