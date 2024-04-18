@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\bin\Debug\net8.0\ConstructorWithCounter.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\bin\Debug\net8.0\ConstructorWithCounter.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\bin\Debug\net8.0\ConstructorWithCounter.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\bin\Debug\net8.0\ConstructorWithCounter.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\bin\Debug\net8.0\ConstructorWithCounter.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\refint\ConstructorWithCounter.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ConstructorWithCounter.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ConstructorWithCounter\obj\Debug\net8.0\ref\ConstructorWithCounter.dll
