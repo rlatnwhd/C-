@@ -1,0 +1,16 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\bin\Debug\net8.0-windows\UnitConverstionForm.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\bin\Debug\net8.0-windows\UnitConverstionForm.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\bin\Debug\net8.0-windows\UnitConverstionForm.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\bin\Debug\net8.0-windows\UnitConverstionForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\bin\Debug\net8.0-windows\UnitConverstionForm.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.Form1.resources
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.csproj.GenerateResource.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\refint\UnitConverstionForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\UnitConverstionForm.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\UnitConverstionForm\obj\Debug\net8.0-windows\ref\UnitConverstionForm.dll
