@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\refint\Blnheritance.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\Blnheritance\obj\Debug\net8.0\ref\Blnheritance.dll

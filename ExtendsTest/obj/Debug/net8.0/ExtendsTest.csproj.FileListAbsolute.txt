@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\bin\Debug\net8.0\ExtendsTest.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\bin\Debug\net8.0\ExtendsTest.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\bin\Debug\net8.0\ExtendsTest.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\bin\Debug\net8.0\ExtendsTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\bin\Debug\net8.0\ExtendsTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\refint\ExtendsTest.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ExtendsTest.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ExtendsTest\obj\Debug\net8.0\ref\ExtendsTest.dll
