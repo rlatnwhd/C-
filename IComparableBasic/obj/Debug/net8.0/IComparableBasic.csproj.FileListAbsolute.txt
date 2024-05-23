@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\bin\Debug\net8.0\IComparableBasic.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\bin\Debug\net8.0\IComparableBasic.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\bin\Debug\net8.0\IComparableBasic.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\bin\Debug\net8.0\IComparableBasic.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\bin\Debug\net8.0\IComparableBasic.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\refint\IComparableBasic.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\IComparableBasic.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\IComparableBasic\obj\Debug\net8.0\ref\IComparableBasic.dll
