@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\bin\Debug\net8.0\FileProcess.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\bin\Debug\net8.0\FileProcess.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\bin\Debug\net8.0\FileProcess.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\bin\Debug\net8.0\FileProcess.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\bin\Debug\net8.0\FileProcess.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\refint\FileProcess.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\FileProcess.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\FileProcess\obj\Debug\net8.0\ref\FileProcess.dll
