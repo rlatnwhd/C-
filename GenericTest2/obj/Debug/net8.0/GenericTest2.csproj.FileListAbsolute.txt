@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\bin\Debug\net8.0\GenericTest2.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\bin\Debug\net8.0\GenericTest2.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\bin\Debug\net8.0\GenericTest2.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\bin\Debug\net8.0\GenericTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\bin\Debug\net8.0\GenericTest2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\refint\GenericTest2.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\GenericTest2.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest2\obj\Debug\net8.0\ref\GenericTest2.dll

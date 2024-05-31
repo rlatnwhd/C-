@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GenericTest2/1.0.0": {
+        "runtime": {
+          "GenericTest2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericTest2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

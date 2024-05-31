@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\bin\Debug\net8.0\GenericTest3.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\bin\Debug\net8.0\GenericTest3.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\bin\Debug\net8.0\GenericTest3.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\bin\Debug\net8.0\GenericTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\bin\Debug\net8.0\GenericTest3.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\refint\GenericTest3.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\GenericTest3.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\GenericTest3\obj\Debug\net8.0\ref\GenericTest3.dll
