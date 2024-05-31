@@ -1,0 +1,16 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.Form1.resources
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.csproj.GenerateResource.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\bin\Debug\net8.0-windows\LableForm.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\bin\Debug\net8.0-windows\LableForm.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\bin\Debug\net8.0-windows\LableForm.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\bin\Debug\net8.0-windows\LableForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\bin\Debug\net8.0-windows\LableForm.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\refint\LableForm.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\LableForm.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\LableForm\obj\Debug\net8.0-windows\ref\LableForm.dll
