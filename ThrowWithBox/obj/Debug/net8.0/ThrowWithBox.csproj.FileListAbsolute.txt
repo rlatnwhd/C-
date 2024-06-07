@@ -1,0 +1,14 @@
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.exe
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.deps.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.runtimeconfig.json
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.AssemblyInfoInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.AssemblyInfo.cs
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.csproj.CoreCompileInputs.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\refint\ThrowWithBox.dll
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.pdb
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.genruntimeconfig.cache
+C:\Users\kimsj\OneDrive - SILLA UNIVERSITY\바탕 화면\코딩\C#\ThrowWithBox\obj\Debug\net8.0\ref\ThrowWithBox.dll
